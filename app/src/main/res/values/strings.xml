@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android tutorial</string>
+    <string name="default_title">Space Station View of Grand Canyon National Park</string>
+    <string name="default_date">29-08-2016</string>
+    <string name="derault_image_description">To celebrate the centennial of the U.S National Park Service, Expedition 48 Commander Jeff Williams of NASA has taken hundreds of images of national parks from his vantage point in low Earth orbit, aboard the International Space Station. Here, a series of Williams\' photographs are assembled into this composite image of the Grand Canyon.</string>
+
+    <string name="previous">&lt;</string>
+    <string name="set_as_wallpaper">Set as wallpaper</string>
+    <string name="next">&gt;</string>
+    <string name="open_in_browser">Open in browser</string>
+</resources>

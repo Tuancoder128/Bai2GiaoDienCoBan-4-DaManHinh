@@ -1,0 +1,4 @@
+#Fri Apr 06 21:03:27 ICT 2018
+base.0=/home/vst/Bai2GiaoDienCoBan-4-DaManHinh/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
